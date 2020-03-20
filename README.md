@@ -4,7 +4,7 @@ Contributed by **Hongbin Ye**  and **[Ningyu Zhang]()**.
 
 ## Papers
 1. **Language Models as Knowledge Bases?**. *Petroni, Fabio
-Rocktäschel, Tim*. EMNLP 2019.
+Rocktäschel, Tim*. EMNLP2019.
 2. **BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA**
 3. **How Can We Know What Language Models Know ?**
 4. **Do Nuclear Submarines Have Nuclear Captains ? A Challenge Dataset for Commonsense Reasoning over Adjectives and Objects**
