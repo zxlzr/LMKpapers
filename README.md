@@ -1,6 +1,6 @@
 # Dive into Pretrained Language Model Papers
 
-Contributed by **Hongbin Ye**  and **[Ningyu Zhang]()**.
+Contributed by **Hongbin Ye**  and **[Ningyu Zhang](https://zxlzr.github.io/)**.
 
 ## Papers
 1. **Language Models as Knowledge Bases?**. *Petroni, Fabio
